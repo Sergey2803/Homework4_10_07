@@ -1,0 +1,30 @@
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/ex29/bin/Debug/net7.0/ex29
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/ex29/bin/Debug/net7.0/ex29.deps.json
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/ex29/bin/Debug/net7.0/ex29.runtimeconfig.json
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/ex29/bin/Debug/net7.0/ex29.dll
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/ex29/bin/Debug/net7.0/ex29.pdb
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/ex29/obj/Debug/net7.0/ex29.csproj.AssemblyReference.cache
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/ex29/obj/Debug/net7.0/ex29.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/ex29/obj/Debug/net7.0/ex29.AssemblyInfoInputs.cache
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/ex29/obj/Debug/net7.0/ex29.AssemblyInfo.cs
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/ex29/obj/Debug/net7.0/ex29.csproj.CoreCompileInputs.cache
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/ex29/obj/Debug/net7.0/ex29.dll
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/ex29/obj/Debug/net7.0/refint/ex29.dll
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/ex29/obj/Debug/net7.0/ex29.pdb
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/ex29/obj/Debug/net7.0/ex29.genruntimeconfig.cache
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/ex29/obj/Debug/net7.0/ref/ex29.dll
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/03. HomeWork4/ex29/obj/Debug/net7.0/ex29.csproj.AssemblyReference.cache
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/03. HomeWork4/ex29/obj/Debug/net7.0/ex29.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/03. HomeWork4/ex29/obj/Debug/net7.0/ex29.AssemblyInfoInputs.cache
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/03. HomeWork4/ex29/obj/Debug/net7.0/ex29.AssemblyInfo.cs
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/03. HomeWork4/ex29/obj/Debug/net7.0/ex29.csproj.CoreCompileInputs.cache
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/03. HomeWork4/ex29/obj/Debug/net7.0/ex29.dll
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/03. HomeWork4/ex29/obj/Debug/net7.0/refint/ex29.dll
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/03. HomeWork4/ex29/obj/Debug/net7.0/ex29.pdb
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/03. HomeWork4/ex29/bin/Debug/net7.0/ex29
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/03. HomeWork4/ex29/bin/Debug/net7.0/ex29.deps.json
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/03. HomeWork4/ex29/bin/Debug/net7.0/ex29.runtimeconfig.json
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/03. HomeWork4/ex29/bin/Debug/net7.0/ex29.dll
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/03. HomeWork4/ex29/bin/Debug/net7.0/ex29.pdb
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/03. HomeWork4/ex29/obj/Debug/net7.0/ex29.genruntimeconfig.cache
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/03. HomeWork4/ex29/obj/Debug/net7.0/ref/ex29.dll

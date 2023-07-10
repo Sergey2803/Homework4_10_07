@@ -1,0 +1,15 @@
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/ex25/bin/Debug/net7.0/ex25
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/ex25/bin/Debug/net7.0/ex25.deps.json
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/ex25/bin/Debug/net7.0/ex25.runtimeconfig.json
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/ex25/bin/Debug/net7.0/ex25.dll
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/ex25/bin/Debug/net7.0/ex25.pdb
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/ex25/obj/Debug/net7.0/ex25.csproj.AssemblyReference.cache
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/ex25/obj/Debug/net7.0/ex25.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/ex25/obj/Debug/net7.0/ex25.AssemblyInfoInputs.cache
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/ex25/obj/Debug/net7.0/ex25.AssemblyInfo.cs
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/ex25/obj/Debug/net7.0/ex25.csproj.CoreCompileInputs.cache
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/ex25/obj/Debug/net7.0/ex25.dll
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/ex25/obj/Debug/net7.0/refint/ex25.dll
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/ex25/obj/Debug/net7.0/ex25.pdb
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/ex25/obj/Debug/net7.0/ex25.genruntimeconfig.cache
+/Users/sergeyavdeev/Desktop/Практика_изм.05.07.2023/ex25/obj/Debug/net7.0/ref/ex25.dll
